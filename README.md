@@ -1,7 +1,7 @@
 Hej på dig!!
 
 <<<<<<< HEAD
-
+Nu verkar allt ha ordnat sig :) 
 Tjena// Ollliivir
 nu har jag lagt till mig XDDDD
 1+2=3
