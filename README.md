@@ -12,3 +12,5 @@ MEH
 >>>>>>> cb98f87d45ada6eaa0d64774102b4147a12abd0e
 
 !!HUEHUEHEUHUEHUE!!
+
+Nu Testar jag om det fungerar från min bärbara dator :D
