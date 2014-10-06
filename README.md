@@ -3,6 +3,8 @@ Hej på dig!!
 HEj marcus
 hej igen marcus
 
+Tja igen xD
+
 :) :(
 
 <<<<<<< HEAD
