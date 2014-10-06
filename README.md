@@ -3,6 +3,8 @@ Hej på dig!!
 HEj marcus
 hej igen marcus
 
+:) :(
+
 <<<<<<< HEAD
 Nu verkar allt ha ordnat sig :) 
 Tjena// Ollliivir
