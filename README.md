@@ -25,3 +25,5 @@ MEH
 Nu Testar jag om det fungerar från min bärbara dator :D
 
 Megatest v.2 hue hue
+
+lär min brorsa hur git fungerar.
